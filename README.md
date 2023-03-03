@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Timoty > @AntonioTimothy
+-  💻 Full stack web developer  
 - 👀 I’m interested in Node Js, React Js, React Native and Rust
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Rust (Actix Web)
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me> https://www.linkedin.com/in/timothy-njuguna-aa98131b5/
 
